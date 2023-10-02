@@ -1,0 +1,19 @@
+.quantity-container {
+  background-color: white;
+  width: 100px;
+  height: 70px;
+  display: flex;
+  border-radius: 1rem;
+  justify-content: center;
+}
+
+.quantity {
+  font-size: 30px;
+  border: none;
+  border-radius: 1rem;
+  text-decoration: none;
+  text-align: center;
+  width: 100px;
+  padding-left: 17px;
+}
+

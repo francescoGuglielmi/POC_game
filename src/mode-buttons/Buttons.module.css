@@ -1,0 +1,41 @@
+.buttons-container {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  height: 70px;
+  width:500px;
+  margin-top: 50px;
+}
+
+.buttons-container :nth-child(1) {
+  margin-right: 10px;
+  color: white;
+  border-radius: 1rem;
+}
+
+.buttons-container :nth-child(2) {
+  margin-left: 10px;
+  color: white;
+  border-radius: 1rem;
+}
+
+.mode-button {
+  width: 200px;
+  height: 70px;
+  font-size: 25px;
+  background-color: rgb(81, 81, 81);
+}
+
+.mode-button-sell {
+  width: 200px;
+  height: 70px;
+  font-size: 25px;
+  background-color: red;
+}
+
+.mode-button-buy {
+  width: 200px;
+  height: 70px;
+  font-size: 25px;
+  background-color: blue;
+}

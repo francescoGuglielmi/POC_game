@@ -1,0 +1,8 @@
+.asset-title {
+  background-color: white;
+  width: 400px;
+  display: flex;
+  justify-content: center;
+  border-radius: 1rem;
+  margin-top: 15px;
+}

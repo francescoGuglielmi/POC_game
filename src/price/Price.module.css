@@ -1,0 +1,24 @@
+.price-container {
+  width: 200px;
+  height: 70px;
+  background-color: white;
+  border-radius: 1rem;
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  align-items: center;
+}
+
+.space {
+  width: 10px;
+}
+
+.arrow-up {
+color: rgb(0, 187, 0);
+}
+
+.arrow-down {
+  color: red;
+  rotate: 180deg;
+}
